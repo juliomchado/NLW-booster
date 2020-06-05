@@ -11,9 +11,16 @@ import api from '../../services/api'
 
 import logo from '../../assets/logo.svg'
 
+// Array ou objeto = manualmente informar o tipo de variável
+interface Item {
+    id: number,
+    title: string,
+    image_url: string
+}
+
 const CreatePoint = () => {
 
-    const [items, setItem] = useState([]);
+    const [items, setItem] = useState<Item[]>([]);
 
     useEffect(() => {
         api.get('items').then(res => {
@@ -99,32 +106,13 @@ const CreatePoint = () => {
                     </legend>
 
                     <ul className="items-grid">
-                            <li>
-                                <img src="http://localhost:3333/uploads/oleo.svg" alt="teste" />
-                                <span>Óleo de cozinha</span>
-                            </li>
-                            <li>
-                                <img src="http://localhost:3333/uploads/oleo.svg" alt="teste" />
-                                <span>Óleo de cozinha</span>
-                            </li>
-                            <li>
-                                <img src="http://localhost:3333/uploads/oleo.svg" alt="teste" />
-                                <span>Óleo de cozinha</span>
-                            </li>
-                            <li>
-                                <img src="http://localhost:3333/uploads/oleo.svg" alt="teste" />
-                                <span>Óleo de cozinha</span>
-                            </li>
-                            <li>
-                                <img src="http://localhost:3333/uploads/oleo.svg" alt="teste" />
-                                <span>Óleo de cozinha</span>
-                            </li>
-                            <li>
-                                <img src="http://localhost:3333/uploads/oleo.svg" alt="teste" />
-                                <span>Óleo de cozinha</span>
+                        {items.map(item => (
+                            <li key={item.id}>
+                                <img src={item.image_url} alt={item.title} />
+                                <span>{item.title}</span>
                             </li>
 
-
+                        ))}
                     </ul>
                 </fieldset>
 
