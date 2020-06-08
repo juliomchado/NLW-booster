@@ -9,17 +9,18 @@ import * as Location from 'expo-location'
 import api from '../../services/api'
 
 interface Item {
-    id: number,
-    title: string,
-    image_url: string
+    id: number;
+    title: string;
+    image_url: string;
 }
 
 interface Point {
-    id: number,
-    image: string,
-    name: string,
-    latitude: number,
-    longitude: number,
+    id: number;
+    image: string;
+    image_url: string;
+    name: string;
+    latitude: number;
+    longitude: number;
 
 }
 
@@ -129,7 +130,7 @@ const Points = () => {
                                         longitude: point.longitude
                                     }} >
                                     <View style={styles.mapMarkerContainer}>
-                                        <Image style={styles.mapMarkerImage} source={{ uri: point.image }} />
+                                        <Image style={styles.mapMarkerImage} source={{ uri: point.image_url }} />
                                         <Text style={styles.mapMarkerTitle}>{point.name}</Text>
                                     </View>
 
