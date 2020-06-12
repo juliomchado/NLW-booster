@@ -48,30 +48,30 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 
 
 ## Como rodar o projeto?
-- Inicie o backend
-1. Abra a pasta server
-2. Rode npm install/npm i no terminal para baixar as dependências
-3. Rode o comando yarn run dev OU npm run dev no terminal
+> ### Inicie o backend
+> 1. Abra a pasta server
+> 2. Rode npm install/npm i no terminal para baixar as dependências
+> 3. Rode o comando yarn run dev OU npm run dev no terminal
 
-- Inicie o frontend web 
-1. Abra a pasta web 
-2. Rode npm install/npm i no terminal para baixar as dependências
-3. Rode o comando yarn start OU npm start no terminal
+> ### Inicie o frontend web 
+> 1. Abra a pasta web 
+> 2. Rode npm install/npm i no terminal para baixar as dependências
+> 3. Rode o comando yarn start OU npm start no terminal
 
-- Inicie o mobile
-#### Com Smartphone: 
-1. Abra a pasta web
-2. Rode npm install/npm i no terminal para baixar as dependências
-3. Instale o Expo em seu celular 
-4. Rode yarn start, npm start OU expo start no terminal
-5. Leita o código de barras da página aberta com o app do expo no seu celular
+> ### Inicie o mobile
+> #### Com Smartphone: 
+> 1. Abra a pasta web
+> 2. Rode npm install/npm i no terminal para baixar as dependências
+> 3. Instale o Expo em seu celular 
+> 4. Rode yarn start, npm start OU expo start no terminal
+> 5. Leita o código de barras da página aberta com o app do expo no seu celular
 
-#### Com Emulador: 
-1. Abra a pasta web
-2. Rode npm install/npm i no terminal para baixar as dependências
-3. Abra o seu simulador (Android OU iOS)
-4. Rode yarn start, npm start OU expo start no terminal
-5. Clique em Run Android device/Run iOS simulator no link do expo aberto
+> #### Com Emulador: 
+> 1. Abra a pasta web
+> 2. Rode npm install/npm i no terminal para baixar as dependências
+> 3. Abra o seu simulador (Android OU iOS)
+> 4. Rode yarn start, npm start OU expo start no terminal
+> 5. Clique em Run Android device/Run iOS simulator no link do expo aberto
 
 Pronto !!! 😀🎉
 
