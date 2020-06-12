@@ -65,7 +65,7 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 > 3. Instale o Expo em seu celular 
 > 4. Rode yarn start, npm start OU expo start no terminal
 > 5. Leita o código de barras da página aberta com o app do expo no seu celular
-
+>
 > #### Com Emulador: 
 > 1. Abra a pasta web
 > 2. Rode npm install/npm i no terminal para baixar as dependências
