@@ -26,6 +26,7 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 * React Native <br>
 * Expo <br>
 * React Icons <br>
+* Expo-mail-composer <br>
 
 #### Apis: 
 * Api IBGE de Estados <br>
