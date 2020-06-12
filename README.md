@@ -3,7 +3,7 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 
 ![Capa](https://user-images.githubusercontent.com/56945282/84440559-1e9a6a80-ac32-11ea-856f-742f04af86ab.png)
 
-## Tecnologias usadas: <br>
+## Tecnologias usadas <br>
 ### Backend: <br>
 * Node <br>
 * Express <br>
@@ -35,15 +35,15 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 ## Imagens
 > ### WEB - HOME
 > ![Home](https://user-images.githubusercontent.com/56945282/84449050-30850900-ac44-11ea-960d-fda8b32f6ac4.png)
-> ### WEB - TELA DE CADASTRO DO PONTO DE COLETA
+> ### TELA DE CADASTRO DO PONTO DE COLETA
 > ![Cadastro](https://user-images.githubusercontent.com/56945282/84449122-5f02e400-ac44-11ea-961e-85afd665dac4.png)
 <br> 
 
 > ### MOBILE - INICIO
 > ![XMLID 424 (1)](https://user-images.githubusercontent.com/56945282/84449547-a0e05a00-ac45-11ea-8333-1aa3599b8771.png)
-> ### MOBILE - HOME 
+> ### HOME 
 > ![XMLID 424 (2)](https://user-images.githubusercontent.com/56945282/84449663-f7e62f00-ac45-11ea-806f-b1b670583945.png)
-> ### MOBILE - DETALHES
+> ### DETALHES
 > ![XMLID 424 (3)](https://user-images.githubusercontent.com/56945282/84449840-70e58680-ac46-11ea-9c9b-1691e76b191f.png)
 
 
