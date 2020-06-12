@@ -1,5 +1,5 @@
 # Ecoleta
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente, feito durante o Next Level Week da ### Rocketseat.
+O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente, feito durante o **Next Level Week** da **Rocketseat**.
 
 ![Capa](https://user-images.githubusercontent.com/56945282/84440559-1e9a6a80-ac32-11ea-856f-742f04af86ab.png)
 
@@ -65,7 +65,8 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 #### Com Emulador: 
 1. Abra a pasta web
 2. Abra o seu simulador (Android OU iOS)
-3. Clique em Run Android device/Run iOS simulator
+3. Rode yarn start, npm start OU expo start no terminal
+4. Clique em Run Android device/Run iOS simulator no link do expo aberto
 
-Pronto !!!
+Pronto !!! 😀🎉
 
