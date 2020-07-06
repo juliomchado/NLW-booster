@@ -41,11 +41,11 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 <br> 
 
 > ### MOBILE - INICIO
-> ![XMLID 424 (1)](https://user-images.githubusercontent.com/56945282/84449547-a0e05a00-ac45-11ea-8333-1aa3599b8771.png)
+> <p align="center"> <img src="https://user-images.githubusercontent.com/56945282/84449547-a0e05a00-ac45-11ea-8333-1aa3599b8771.png" /></p>
 > ### HOME 
-> ![XMLID 424 (2)](https://user-images.githubusercontent.com/56945282/84449663-f7e62f00-ac45-11ea-806f-b1b670583945.png)
+> <p align="center"> <img src="https://user-images.githubusercontent.com/56945282/84449663-f7e62f00-ac45-11ea-806f-b1b670583945.png" /></p>
 > ### DETALHES
-> ![XMLID 424 (3)](https://user-images.githubusercontent.com/56945282/84449840-70e58680-ac46-11ea-9c9b-1691e76b191f.png)
+> <p align="center"> <img src="https://user-images.githubusercontent.com/56945282/84449840-70e58680-ac46-11ea-9c9b-1691e76b191f.png" /></p>
 
 
 ## Como rodar o projeto?
