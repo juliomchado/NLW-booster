@@ -4,10 +4,12 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 ![Capa](https://user-images.githubusercontent.com/56945282/84440559-1e9a6a80-ac32-11ea-856f-742f04af86ab.png)
 
 ## Tecnologias <br>
+### Banco de dados: 
+* Sqlite <br>
+
 ### Backend: <br>
 * Node <br>
 * Express <br>
-* Sqlite <br>
 * Typescript <br>
 * Knex <br>
 * Cors <br>
