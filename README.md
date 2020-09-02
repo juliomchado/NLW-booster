@@ -40,11 +40,11 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 > ![Cadastro](https://user-images.githubusercontent.com/56945282/84449122-5f02e400-ac44-11ea-961e-85afd665dac4.png)
 <br> 
 
-> ### MOBILE - INICIO
+ ### MOBILE - INICIO
 > <p align="center"> <img src="https://user-images.githubusercontent.com/56945282/84449547-a0e05a00-ac45-11ea-8333-1aa3599b8771.png" /></p>
-> ### HOME 
+ ### HOME 
 > <p align="center"> <img src="https://user-images.githubusercontent.com/56945282/84449663-f7e62f00-ac45-11ea-806f-b1b670583945.png" /></p>
-> ### DETALHES
+ ### DETALHES
 > <p align="center"> <img src="https://user-images.githubusercontent.com/56945282/84449840-70e58680-ac46-11ea-9c9b-1691e76b191f.png" /></p>
 
 
@@ -60,7 +60,7 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 > 3. Rode o comando yarn start OU npm start no terminal
 
 > ### Inicie o mobile
-> #### Com Smartphone: 
+> ### Com Smartphone: 
 > 1. Abra a pasta web
 > 2. Rode npm install/npm i no terminal para baixar as dependências
 > 3. Instale o Expo em seu celular 
